@@ -18,7 +18,7 @@
  <p> Obsah kruhu : <?php echo "S = PI * r * r =  " . PI . " * $r * $r ="  ?> <?php echo $S ?> </p>
  <p> Obvod kruhu : O = <?php echo "2 * PI * r =  2 * " . PI . " * $r " ?> = <?php echo $obvod ?></p>
 
- <div style="width:40px ; height:40px ; border-radius:20px ;
+ <div style="width:31.4px ; height:31.4px ; border-radius:20px ;
              display:block; background:#F00">
  </div>
 
